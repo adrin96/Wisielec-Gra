@@ -1,0 +1,33 @@
+K:\Wisielec\Wisielec\bin\Debug\Wisielec.exe.config
+K:\Wisielec\Wisielec\bin\Debug\Wisielec.exe
+K:\Wisielec\Wisielec\bin\Debug\Wisielec.pdb
+K:\Wisielec\Wisielec\obj\Debug\Wisielec.csprojAssemblyReference.cache
+K:\Wisielec\Wisielec\obj\Debug\Wisielec.Form1.resources
+K:\Wisielec\Wisielec\obj\Debug\Wisielec.Properties.Resources.resources
+K:\Wisielec\Wisielec\obj\Debug\Wisielec.csproj.GenerateResource.cache
+K:\Wisielec\Wisielec\obj\Debug\Wisielec.csproj.CoreCompileInputs.cache
+K:\Wisielec\Wisielec\obj\Debug\Wisielec.exe
+K:\Wisielec\Wisielec\obj\Debug\Wisielec.pdb
+K:\Wisielec\Wisielec\obj\Debug\Wisielec.Form2.resources
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\bin\Debug\Wisielec.exe.config
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\bin\Debug\Wisielec.exe
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\bin\Debug\Wisielec.pdb
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\obj\Debug\Wisielec.csprojAssemblyReference.cache
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\obj\Debug\Wisielec.Form1.resources
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\obj\Debug\Wisielec.Form2.resources
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\obj\Debug\Wisielec.Properties.Resources.resources
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\obj\Debug\Wisielec.csproj.GenerateResource.cache
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\obj\Debug\Wisielec.csproj.CoreCompileInputs.cache
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\obj\Debug\Wisielec.exe
+H:\MEGA chmura\Gry C#\Wisielec\Wisielec\obj\Debug\Wisielec.pdb
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\bin\Debug\Wisielec.exe.config
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\bin\Debug\Wisielec.exe
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\bin\Debug\Wisielec.pdb
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\obj\Debug\Wisielec.csprojAssemblyReference.cache
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\obj\Debug\Wisielec.Form1.resources
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\obj\Debug\Wisielec.Form2.resources
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\obj\Debug\Wisielec.Properties.Resources.resources
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\obj\Debug\Wisielec.csproj.GenerateResource.cache
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\obj\Debug\Wisielec.csproj.CoreCompileInputs.cache
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\obj\Debug\Wisielec.exe
+H:\MEGA chmura\Ciekawe projekty C#\Wisielec\Wisielec\obj\Debug\Wisielec.pdb
