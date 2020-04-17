@@ -1,5 +1,6 @@
 # Wisielec-Gra
 <h3>Gra polega na odgadnięciu hasła w 7 ruchach, jeśli nam się to nie uda, tytułowy Wisielec zginie. </h3>
+Wersja stabilna gry jest możliwa do pobrania bezpośrednio z folderu <i> "Do pobrania". </i>
 <hr>
 
 <h4> Dodawanie hasła </h4>
